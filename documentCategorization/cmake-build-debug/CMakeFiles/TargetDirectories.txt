@@ -1,0 +1,3 @@
+/home/spasmilenkov/CLionProjects/documentCategorization/cmake-build-debug/CMakeFiles/documentCategorization.dir
+/home/spasmilenkov/CLionProjects/documentCategorization/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/spasmilenkov/CLionProjects/documentCategorization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
