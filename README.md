@@ -54,10 +54,6 @@ Both versions classify documents based on a catalog of topics and identifiers, r
     ```sh
       mpicxx -I/usr/lib/x86_64-linux-gnu/openmpi/include main.cpp -o parallel
     ```
-    ```sh
-      mpirun -n 4 paralel
-    ```
-    Where 4 is the amount of processes you want Open MPI to spawn.
 
 ## Usage
 ### Single-Process Implementation
@@ -71,7 +67,8 @@ Both versions classify documents based on a catalog of topics and identifiers, r
     ```sh
     mpirun -np 4 ./mpi_classification
     ```
-
+    Where 4 is the amount of processes you want Open MPI to spawn.
+   
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
